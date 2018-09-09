@@ -12,5 +12,13 @@
     "chalk": "latest",
     "commander": "^2.18.0",
     "node-console-input": "^1.1.1"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nimahkh/react-all-in-one-package.git"
   }
 }
