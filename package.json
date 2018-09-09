@@ -20,5 +20,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/nimahkh/react-all-in-one-package.git"
-  }
+  },
+  "keywords": [
+    "reactjs",
+    "material-ui",
+    "axios",
+    "all in one",
+    "moment"
+  ]
 }
