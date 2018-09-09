@@ -1,6 +1,6 @@
 {
   "name": "@nimahkh/react_all_you_need_in_one_pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "with this module , you can install reactjs with all top dependencies",
   "main": "index.js",
   "scripts": {
