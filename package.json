@@ -1,0 +1,16 @@
+{
+  "name": "@nimahkh/react_all_you_need_in_one_pack",
+  "version": "1.0.0",
+  "description": "with this module , you can install reactjs with all top dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nima habibkhoda (nima.2004hkh@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "latest",
+    "commander": "^2.18.0",
+    "node-console-input": "^1.1.1"
+  }
+}
